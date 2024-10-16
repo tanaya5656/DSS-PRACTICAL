@@ -1,1 +1,1 @@
-# dsa-practcal
+# dss-practcal
